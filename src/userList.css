@@ -1,0 +1,21 @@
+.add {
+    width: 6%;
+    background-color: #0d717a;
+    color: white;
+}
+.add : disabled {
+  background-color: #15d4e6;
+}
+.user-list{
+	display: flex;
+    margin-bottom: 9px;
+}
+.list-name{
+	flex:4;
+}
+.action-button {
+	flex:1.5;
+    font-size: 15px;
+    margin-left: 20px;
+}
+    margin-left: -30px;
